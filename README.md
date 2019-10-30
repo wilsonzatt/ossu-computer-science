@@ -4,7 +4,7 @@
 <h3>Data Science Progress</h3>
 <p>
 
-Started: October 3 - 2019
+Started: October 30 - 2019
 
 ## Curriculum
 
