@@ -1,5 +1,8 @@
 # ossu-data-science-progress
-OSSU (Open Source Society University) - Data Science Progress
+![Open Source Society logo](http://i.imgur.com/kYYCXtC.png)
+
+<h3 align="center">Open Source Society University - Data Science Progress</h3>
+<p align="center">
 
 Started: November 3 / 2019
 
