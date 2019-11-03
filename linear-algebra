@@ -1,3 +1,42 @@
 This is the progress of "Linear Algebra":
 
 COURSE 1: Linear Algebra - Foundations to Frontiers
+
+Week 1: Vectors in Linear Algebra
+
+1.2 What is a vector
+
+1.2.1 Notation
+
+Vetores são utilizados geralmente para mostrar uma direção e um comprimento de um movimento em um lugar qualquer.
+
+Um vetor (coluna) necessita de um comprimento (length) e uma direção, mas não tem uma localização (existe por si só)
+
+4 "unidades" para direita e 3 "unidades" para baixo (4, -3)
+
+Vetores em altas dimensões: matrizes (array) ordenadas, as entradas nas matrizes são chamadas de componentes, o primeiro componente é X0 (X0, X1... Xn-1), Xi pertence aos números reais
+
+1.2.2 Unit (Standard) Basis Vectors
+i: e0
+j: e1
+k: e2 (3D)
+
+In our presentations, any time you encounter the symbol ej , it always refers to the unit basis vector with the “1” in the component indexed by j.
+
+1.3 Simple Vector Operations
+
+1.3.1 Equality (=), Assignment (:=), and Copy
+
+y := x (read: y becomes x)
+
+1.3.2 Vector Addition
+
+1.3.3 Scaling
+
+Scaling  = x + x -> mesmo comprimento
+
+1.3.4 Vector Subtraction
+
+1.3 Advanced Vector Operations
+
+1.4.1 Scaled Vector Addition (AXPY)
